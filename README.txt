@@ -1,7 +1,7 @@
 question A: overloading function "average", but the arguments are different, so can be encoded with identifiers.
-			result: 00000000004004b4 T _Z7averagePdRd    The first is a pointer to double, the second is too.
-					00000000004004e2 T _Z7averageif		 The first is a integer, the second is a float.
-					000000000040050a T main
+result: 00000000004004b4 T _Z7averagePdRd   The first is a pointer to double, the second is too.
+		00000000004004e2 T _Z7averageif	    The first is a integer, the second is a float.
+		000000000040050a T main
 question B: result is
 1 8
 4 8
